@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://superboxzone.us/sitemap.xml
